@@ -25,4 +25,11 @@ public class ConsumerMovieRibbonApplication {
   public static void main(String[] args) {
     SpringApplication.run(ConsumerMovieRibbonApplication.class, args);
   }
+  /*public static void main(String[] args) {
+    SpringApplication.run(ConsumerMovieRibbonApplication.class, args);
+  }public static void main(String[] args) {
+    SpringApplication.run(ConsumerMovieRibbonApplication.class, args);
+  }public static void main(String[] args) {
+    SpringApplication.run(ConsumerMovieRibbonApplication.class, args);
+  }*/
 }
